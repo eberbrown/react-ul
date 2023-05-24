@@ -1,0 +1,10 @@
+/* It's important to understand that this only works for IDs and Classes. It will not work for generic html elements.
+If you add css properties to something like a span, it will have a global effect on all spans */
+
+.title{
+    background-color: rgb(142, 189, 255);
+}
+
+#random{
+    background-color: rgb(142, 189, 255);
+}
